@@ -2,6 +2,8 @@
 # ShinyCICD
 
 <!-- badges: start -->
+[![R build status](https://github.com/miraisolutions/ShinyCICD-min/workflows/CI-CD/badge.svg)](https://github.com/miraisolutions/ShinyCICD-min/actions)
+[![Travis build status](https://travis-ci.com/miraisolutions/ShinyCICD-min.svg?branch=master)](https://travis-ci.com/miraisolutions/ShinyCICD-min)
 <!-- badges: end -->
 
 The goal of ShinyCICD is to provide a simple example of packaged Shiny app to showcase CI/CD pipelines.

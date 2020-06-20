@@ -7,3 +7,8 @@ dev_history.R
 ^dev$
 $run_dev.*
 ^LICENSE\.md$
+^app\.R$
+^rsconnect$
+^deploy$
+^\.github$
+^\.travis\.yml$
